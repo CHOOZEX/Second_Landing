@@ -1,0 +1,22 @@
+.main__title{
+    font-size: 70px;
+}
+.main__descr{
+    font-size: 18px;
+}
+.main__input{
+    border: none;
+    padding: 14px 16px;
+    width: 338px;
+}
+.main__button{
+    padding: 14px 20px;
+    border: none;
+    background-color: black;
+    color: #FFFFFF;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

@@ -1,0 +1,40 @@
+body{
+    background-color: #F0F0F0;
+}
+.container{
+    width: 100%;
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 0px 6px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 32px;
+}
+.header__link{
+    color: black;
+
+}
+.header__nav{
+    display: flex;
+    align-items: center;
+}
+.header__link{
+    margin-left: 20px;
+    font-size: 18px;
+    padding: 14px 20px;
+}
+.login{
+    padding: 14px 20px;
+    border: none;
+    background-color: #FFF;
+}
+.sign_up{
+    padding: 14px 20px;
+    border: none;
+    background-color: black;
+    color: #FFFFFF;
+    margin-left: 20px;
+}
